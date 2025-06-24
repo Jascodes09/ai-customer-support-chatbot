@@ -63,6 +63,8 @@ It responds naturally and asks for relevant information like:
 ## 📎 Deliverables
 
 - 📷 Screenshot of Chatbot Interaction
+![Preview](img1.png)
+![Preview](img2.png)
 
 
 - 📝 This Repository (Documented as a project showcase)
@@ -83,7 +85,7 @@ As an aspiring **AI Sales Engineer Intern**, I:
 ## 🔗 Links
 
 - 🌐 [Live Hugging Face Model](https://huggingface.co/spaces/yuntian-deng/ChatGPT)
-- 📄 Add to your [LinkedIn Projects](https://www.linkedin.com/in/jasmin1105)
+- 📄 [LinkedIn Projects](https://www.linkedin.com/in/jasmin1105)
 
 ---
 
